@@ -1,0 +1,21 @@
+{
+  "name": "Big-Data",
+  "homepage": "https://github.com/tianyigu/Big-Data",
+  "description": "",
+  "main": "",
+  "authors": [
+    "Tianyi Gu"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jQuery": "^2.2.3",
+    "d3": "^3.5.16"
+  }
+}
